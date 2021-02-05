@@ -60,7 +60,8 @@
 .header__optionBasket {
     display: flex;
     align-items: center;
-    color: white
+    color: white;
+    padding-right: 20px;
 }
 
 .header__basketCout {
